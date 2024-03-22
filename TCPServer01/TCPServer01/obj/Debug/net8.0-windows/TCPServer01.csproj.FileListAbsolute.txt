@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\bin\Debug\net8.0-windows\TCPServer01.exe
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\bin\Debug\net8.0-windows\TCPServer01.deps.json
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\bin\Debug\net8.0-windows\TCPServer01.runtimeconfig.json
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\bin\Debug\net8.0-windows\TCPServer01.dll
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\bin\Debug\net8.0-windows\TCPServer01.pdb
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.Form1.resources
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.dll
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\refint\TCPServer01.dll
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.pdb
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\TCPServer01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TCPServer01\TCPServer01\obj\Debug\net8.0-windows\ref\TCPServer01.dll
